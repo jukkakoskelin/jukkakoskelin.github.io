@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Modular IaC challenges"
+date:   2025-01-30 12:16:23 +0000
+categories: infrastructure as code
+---
+
+Just testing.
